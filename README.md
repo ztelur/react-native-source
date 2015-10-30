@@ -10,3 +10,6 @@
 
 ## UI
 - 自定义Dialog可以包裹子view
+
+## 第三方库
+- lodash A JavaScript utility library delivering consistency, modularity, performance, & extras. https://lodash.com/
