@@ -13,3 +13,6 @@
 
 ## 第三方库
 - lodash A JavaScript utility library delivering consistency, modularity, performance, & extras. https://lodash.com/
+
+## 工具
+- jshint:保存时检js的语法
