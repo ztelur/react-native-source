@@ -1,6 +1,8 @@
 # react-native-source
 记录了React-native的常用资料和问题
-
+## 阅读材料
+- react create系列函数 https://facebook.github.io/react/docs/top-level-api.html
+- https://facebook.github.io/react/docs/glossary.html
 ##安装
 
 - linux下的brew http://brew.sh/linuxbrew/
